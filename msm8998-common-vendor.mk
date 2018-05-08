@@ -98,6 +98,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8998-common/proprietary/lib64/libtrueportrait.so:system/lib64/libtrueportrait.so \
     vendor/xiaomi/msm8998-common/proprietary/lib64/libtruescanner.so:system/lib64/libtruescanner.so \
     vendor/xiaomi/msm8998-common/proprietary/lib64/vendor.qti.imsrtpservice@1.0.so:system/lib64/vendor.qti.imsrtpservice@1.0.so \
+    vendor/xiaomi/msm8998-common/proprietary/vendor/bin/ATFWD-daemon:system/vendor/bin/ATFWD-daemon \
     vendor/xiaomi/msm8998-common/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
     vendor/xiaomi/msm8998-common/proprietary/vendor/bin/cnd:system/vendor/bin/cnd \
     vendor/xiaomi/msm8998-common/proprietary/vendor/bin/cnss-daemon:system/vendor/bin/cnss-daemon \
@@ -574,6 +575,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8998-common/proprietary/vendor/lib64/vendor.qti.hardware.qdutils_disp@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.qdutils_disp@1.0_vendor.so \
     vendor/xiaomi/msm8998-common/proprietary/vendor/lib64/vendor.qti.hardware.qteeconnector@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.qteeconnector@1.0_vendor.so \
     vendor/xiaomi/msm8998-common/proprietary/vendor/lib64/vendor.qti.hardware.radio.am@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.radio.am@1.0_vendor.so \
+    vendor/xiaomi/msm8998-common/proprietary/vendor/lib64/vendor.qti.hardware.radio.atcmdfwd@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.radio.atcmdfwd@1.0_vendor.so \
     vendor/xiaomi/msm8998-common/proprietary/vendor/lib64/vendor.qti.hardware.radio.ims@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.radio.ims@1.0_vendor.so \
     vendor/xiaomi/msm8998-common/proprietary/vendor/lib64/vendor.qti.hardware.radio.lpa@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.radio.lpa@1.0_vendor.so \
     vendor/xiaomi/msm8998-common/proprietary/vendor/lib64/vendor.qti.hardware.radio.qcrilhook@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.radio.qcrilhook@1.0_vendor.so \
